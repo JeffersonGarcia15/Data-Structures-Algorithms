@@ -82,14 +82,11 @@ class DoublyLinkedList:
             node = node.next
         return node is not None
     
-    def remore
+    def removeNodePointers(self, node):
+        if node.prev is not None:
+            node.prev.next = node.next
+        if node.next is not None:
+            node.next.prev = node.prev
+        node.prev = None
+        node.next = None
         
-
-	
-	def removeNodePointers(self, node):
-		if node.prev is not None:
-			node.prev.next = node.next
-		if node.next is not None:
-			node.next.prev = node.prev
-		node.prev = None
-		node.next = None
