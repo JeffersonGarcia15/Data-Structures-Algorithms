@@ -39,7 +39,7 @@ ls
   * [Queue](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/queue.py)
   * [Singly Linked List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/singly_linked_list.py)
   * [Double Linked List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/double_linked_list.py)
-  * [Deque]
+  * [Deque](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/deque.py)
 
 * [Algorithms](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/algorithms)
   * [Invert Binary Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/invert_binary_tree.py)
