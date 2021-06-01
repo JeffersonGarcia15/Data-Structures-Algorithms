@@ -31,3 +31,14 @@ git clone https://github.com/JeffersonGarcia15/UniverseJF.git
 ```
 ls
 ```
+
+## List of Problems
+
+* [Data Structures](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/data_structures)
+  * [Stack](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/stack.py)
+  * [Queue](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/queue.py)
+  * [Singly Linked List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/singly_linked_list.py)
+  * [Double Linked List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/double_linked_list.py)
+
+* [Algorithms](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/algorithms)
+  * [Invert Binary Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/invert_binary_tree.py)
