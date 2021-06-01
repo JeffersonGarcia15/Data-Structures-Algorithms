@@ -12,6 +12,7 @@ class DoublyLinkedList:
         self.tail = None
 
 
+
     def setHead(self, node):
         # Write your code here.
         if self.head is None:
