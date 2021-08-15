@@ -43,3 +43,4 @@ ls
 
 * [Algorithms](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/algorithms)
   * [Invert Binary Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/invert_binary_tree.py)
+  * [Invert Binary Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/merge_sort.py)
