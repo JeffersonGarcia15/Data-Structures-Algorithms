@@ -52,6 +52,10 @@ ls
   * [Fib Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/fibsSum.py)
   * [Is Palindrome](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/isPalindrome.py)
   * [Fib Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/fibsSum.py)
+  * [My Map](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/myMap.js)
+  * [Queries](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/queries.sql)
+
+
 
 
 
