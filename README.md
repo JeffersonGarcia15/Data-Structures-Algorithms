@@ -43,7 +43,9 @@ ls
 
 * [Algorithms](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/algorithms)
   * [Invert Binary Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/invert_binary_tree.py)
-  * [Invert Binary Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/merge_sort.py)
+  * [Merge Sort](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/merge_sort.py)
+  * [Is Balanced Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/isBalancedTree.py)
+  * [Binary Search](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/binary_search.py)
 
 * [PairBoard](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard)
   * [Caesar Cypher](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/caesar_cipher.py)
@@ -54,6 +56,8 @@ ls
   * [Fib Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/fibsSum.py)
   * [My Map](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/myMap.js)
   * [Queries](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/queries.sql)
+  * [Subsets](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/subsets.py)
+
 
 
 
