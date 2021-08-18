@@ -62,6 +62,8 @@ ls
   * [Non Constructible Change](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/non_constructible_change.py)
   * [Sorted Squared Array](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/sorted_squared_array.py)
   * [Tournament Winner](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/tournament_winner.py)
+  * [Two Number Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/two_number_sum.py)
+  * [Validate Subsequence](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/validate_subsequence.py)
 
 
 
