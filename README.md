@@ -69,6 +69,10 @@ ls
   * [Max Value](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/max_value.py)
 
 
+* [Strings](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings)
+  * [Uncompress](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/uncompress.py)
+
+
 
 
 
