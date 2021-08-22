@@ -57,6 +57,8 @@ ls
   * [My Map](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/myMap.js)
   * [Queries](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/queries.sql)
   * [Subsets](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/subsets.py)
+  * [Is Prime](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/is_prime.py)
+
 
 * [Arrays](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays)
   * [Non Constructible Change](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/non_constructible_change.py)
@@ -64,6 +66,8 @@ ls
   * [Tournament Winner](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/tournament_winner.py)
   * [Two Number Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/two_number_sum.py)
   * [Validate Subsequence](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/validate_subsequence.py)
+  * [Max Value](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/max_value.py)
+
 
 
 
