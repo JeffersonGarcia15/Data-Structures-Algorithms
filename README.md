@@ -23,7 +23,7 @@ cd data_structures_algorithms_folder
 * Clone the repository
 
 ```
-git clone https://github.com/JeffersonGarcia15/UniverseJF.git
+git clone https://github.com/JeffersonGarcia15/Data-Structures-Algorithms.git
 ```
 
 * Check that everything was cloned perfectly
