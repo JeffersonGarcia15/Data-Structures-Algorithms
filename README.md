@@ -46,6 +46,7 @@ ls
   * [Merge Sort](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/merge_sort.py)
   * [Is Balanced Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/isBalancedTree.py)
   * [Binary Search](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/binary_search.py)
+  * [Remove Duplicates From LinkedList](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/remove_duplicates_from_linkedlist.py)
 
 * [PairBoard](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard)
   * [Caesar Cypher](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/caesar_cipher.py)
@@ -71,6 +72,10 @@ ls
 
 * [Strings](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings)
   * [Uncompress](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/uncompress.py)
+  * [Compress](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/compress.py)
+  * [Anagrams](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/anagrams.py)
+
+
 
 
 
