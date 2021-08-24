@@ -1,3 +1,4 @@
+# O(n) time | O(n) Space
 def compress(s):
     s += '!'
     i = 0
