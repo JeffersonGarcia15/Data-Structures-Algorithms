@@ -3,14 +3,20 @@ class Node:
         self.value = value
         self.next = None
 
-def sum_list(head):
-    currentNode = head
-    sum = 0
-    while currentNode is not None:
-        sum += currentNode.value
-        currentNode = currentNode.next
-    return sum
+# O(n) Time | O(1) Space
+# def sum_list(head):
+#     currentNode = head
+#     sum = 0
+#     while currentNode is not None:
+#         sum += currentNode.value
+#         currentNode = currentNode.next
+#     return sum
 
+# O(n) Time | O(n) Space
+def sum_list(head):
+    if head is None:
+        return 0
+    return head.value + sum_list(head.next)
 
 a = Node(2)
 b = Node(8)

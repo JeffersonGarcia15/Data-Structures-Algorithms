@@ -12,3 +12,14 @@ def linked_list_values(head):
         currentNode = currentNode.next
     return new_list
 
+# def linked_list_values(head):
+#     new_list = []
+#     helper(head, new_list)
+#     return new_list
+
+# def helper(head, new_list):
+#     if head is None:
+#         return
+#     new_list.append(head.value)
+#     helper(head.next, new_list)
+
