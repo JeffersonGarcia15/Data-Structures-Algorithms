@@ -41,6 +41,16 @@ ls
   * [Double Linked List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/double_linked_list.py)
   * [Deque](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/deque.py)
   * [Remove Duplicates From LinkedList](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/remove_duplicates_from_linkedlist.py)
+  * [Linked List Values](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/linked_list_values.py)
+  * [Sum List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/sum_list.py)
+  * [Linked List Find](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/linked_list_find.py)
+  * [Get Node Value](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/get_node_value.py)
+  * [Reverse List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/reverse_list.py)
+
+
+
+
+
 
 * [Algorithms](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/algorithms)
   * [Invert Binary Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/invert_binary_tree.py)
