@@ -68,12 +68,22 @@ ls
   * [Two Number Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/two_number_sum.py)
   * [Validate Subsequence](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/validate_subsequence.py)
   * [Max Value](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/max_value.py)
+  * [Pair Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/pair_sum.py)
+  * [Intersection](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/intersection.py)
+  * [Five Sort](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/five_sort.py)
+  * [Pair Product](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/pair_product.py)
+
+  
+
+
 
 
 * [Strings](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings)
   * [Uncompress](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/uncompress.py)
   * [Compress](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/compress.py)
   * [Anagrams](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/anagrams.py)
+  * [Most Frequent Character](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/most_frequent_char.py)
+
 
 
 
