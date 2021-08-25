@@ -40,13 +40,13 @@ ls
   * [Singly Linked List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/singly_linked_list.py)
   * [Double Linked List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/double_linked_list.py)
   * [Deque](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/deque.py)
+  * [Remove Duplicates From LinkedList](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/remove_duplicates_from_linkedlist.py)
 
 * [Algorithms](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/algorithms)
   * [Invert Binary Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/invert_binary_tree.py)
   * [Merge Sort](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/merge_sort.py)
   * [Is Balanced Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/isBalancedTree.py)
   * [Binary Search](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/binary_search.py)
-  * [Remove Duplicates From LinkedList](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/remove_duplicates_from_linkedlist.py)
 
 * [PairBoard](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard)
   * [Caesar Cypher](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/caesar_cipher.py)
