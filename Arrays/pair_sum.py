@@ -6,5 +6,6 @@ def pair_sum(numbers, target_sum):
         if currentSum in nums:
             return (nums[currentSum], index)
         nums[num] = index
+        print(nums)
         
 print(pair_sum([3,2,5,4,1], 8))
