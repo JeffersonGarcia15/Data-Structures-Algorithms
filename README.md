@@ -46,6 +46,12 @@ ls
   * [Linked List Find](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/linked_list_find.py)
   * [Get Node Value](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/get_node_value.py)
   * [Reverse List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/reverse_list.py)
+  * [Zipper Lists](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/zipper_lists.py)
+  * [Merge Lists](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/merge_lists.py)
+  * [Is Univalue List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/is_univalue_list.py)
+
+
+
 
 
 
