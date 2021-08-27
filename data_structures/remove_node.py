@@ -1,7 +1,7 @@
-# class Node:
-#   def __init__(self, val):
-#     self.val = val
-#     self.next = None
+class Node:
+  def __init__(self, val):
+    self.val = val
+    self.next = None
 
 # O(n) Time | O(1) Space
 def remove_node(head, target_val):
