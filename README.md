@@ -49,6 +49,8 @@ ls
   * [Zipper Lists](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/zipper_lists.py)
   * [Merge Lists](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/merge_lists.py)
   * [Is Univalue List](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/is_univalue_list.py)
+  * [Remove Kth Node From End](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/data_structures/remove_kth_node_from_end.py)
+
 
 
 
