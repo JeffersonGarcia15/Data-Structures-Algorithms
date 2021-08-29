@@ -14,4 +14,5 @@ def create_linked_list(values):
 
 
 print(create_linked_list(["h", "e", "y"]))
+
 # h -> e -> y
