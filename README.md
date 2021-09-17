@@ -72,6 +72,10 @@ ls
   * [Branch Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/branch_sum.py)
   * [Depth First Search](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/depth_first_search.py)
   * [Breadth First Search](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/breadth_first_search.py)
+  * [Tree Includes](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/tree_includes.py)
+  * [Tree Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/tree_sum.py)
+
+
 
 
 
