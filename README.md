@@ -69,6 +69,12 @@ ls
   * [Merge Sort](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/merge_sort.py)
   * [Is Balanced Tree](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/isBalancedTree.py)
   * [Binary Search](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/binary_search.py)
+  * [Branch Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/branch_sum.py)
+  * [Depth First Search](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/depth_first_search.py)
+  * [Breadth First Search](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/algorithms/breadth_first_search.py)
+
+
+
 
 * [PairBoard](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard)
   * [Caesar Cypher](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/PairBoard/caesar_cipher.py)
