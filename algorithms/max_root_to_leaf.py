@@ -13,7 +13,10 @@ def max_path_sum(root):
     max_right = max_path_sum(root.right)
 
     return root.value + max(max_left, max_right)
-
+    # stack = [{'node': root, 'depth': 0}]
+    # sum = 0
+    
+    
 
 a = Node(3)
 b = Node(11)
