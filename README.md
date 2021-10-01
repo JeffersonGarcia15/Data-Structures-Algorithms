@@ -104,6 +104,7 @@ ls
   * [Intersection](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/intersection.py)
   * [Five Sort](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/five_sort.py)
   * [Pair Product](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/pair_product.py)
+  * [Product Array](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/blob/main/Arrays/product_array.py)
 
   
 
@@ -115,6 +116,7 @@ ls
   * [Compress](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/compress.py)
   * [Anagrams](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/anagrams.py)
   * [Most Frequent Character](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/most_frequent_char.py)
+  * [Most Frequent Character](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/non_repeating_substring.py)
 
 
 
