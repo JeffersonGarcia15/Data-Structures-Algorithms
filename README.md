@@ -117,6 +117,8 @@ ls
   * [Anagrams](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/anagrams.py)
   * [Most Frequent Character](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/most_frequent_char.py)
   * [Most Frequent Character](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/non_repeating_substring.py)
+  * [Run Length Encoding](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/run_length_encoding.py)
+  * [Generate Document](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/generate_document.py)
 
 
 
