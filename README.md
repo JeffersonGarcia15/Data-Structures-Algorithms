@@ -119,6 +119,10 @@ ls
   * [Most Frequent Character](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/non_repeating_substring.py)
   * [Run Length Encoding](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/run_length_encoding.py)
   * [Generate Document](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/generate_document.py)
+  * [Longest Palindromic Substring](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/longest_palindromic_substring.py)
+  * [Group Anagrams](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/group_anagrams.py)
+
+
 
 
 
