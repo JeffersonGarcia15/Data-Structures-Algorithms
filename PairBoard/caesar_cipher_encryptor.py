@@ -1,4 +1,4 @@
-def caesarCipher(string, key):
+def caesarCipherEncryptor(string, key):
     new_letters = []
     new_key = key % 26
     for letter in string:
@@ -10,7 +10,7 @@ def getNewLetter(letter, key):
     new_letter_code = ord(letter) + key
     return chr(new_letter_code) if new_letter_code <= 122 else chr(96 + new_letter_code % 122)
 
-# def caesarCipher(string, key):
+# def caesarCipherEncryptor(string, key):
 #     new_letters = []
 #     new_key = key % 26
 #     alphabet = list('abcdefghijklmnopqrstuvwxyz')
@@ -24,4 +24,4 @@ def getNewLetter(letter, key):
 #     return alphabet[new_letter_code % 26]
 
 
-print(caesarCipher('xyz', 2))
+print(caesarCipherEncryptor('xyz', 2))
