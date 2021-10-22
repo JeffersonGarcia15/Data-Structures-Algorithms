@@ -124,6 +124,8 @@ ls
   * [Valid IP Address](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/valid_ip_address.py)
   * [Reverse Words In String](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/reverse_words_in_string.py)
   * [Halves Are Alike](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/halves_are_alike.py)
+  * [Is Palindrome](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Strings/is_palindrome.py)
+
 
 
 
