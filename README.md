@@ -129,7 +129,9 @@ ls
 
 * [Recursion](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Recursion)
   * [Fibonacci](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Recursion/fibonacci.py)
-  * [Fibonacci](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Recursion/factorial.py)
+  * [Factorial](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Recursion/factorial.py)
+  * [Product Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Recursion/product_sum.py)
+
 
 
 
