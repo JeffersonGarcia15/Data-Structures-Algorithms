@@ -131,6 +131,7 @@ ls
   * [Fibonacci](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Recursion/fibonacci.py)
   * [Factorial](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Recursion/factorial.py)
   * [Product Sum](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Recursion/product_sum.py)
+  * [Word Split](https://github.com/JeffersonGarcia15/Data-Structures-Algorithms/tree/main/Recursion/word_split.py)
 
 
 
