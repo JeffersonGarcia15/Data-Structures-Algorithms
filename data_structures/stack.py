@@ -7,6 +7,12 @@
 # isEmpty() tests to see whether the stack is empty. It needs no parameters and returns a boolean value.
 # size() returns the number of items on the stack. It needs no parameters and returns an integer.
 
+class Node:
+    def __init__(self, value):
+        self.size = 0
+        self.first = None
+        self.last = None
+
 class Stack(object):
     def __init__(self):
         self.items = []
