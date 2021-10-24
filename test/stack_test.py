@@ -12,6 +12,20 @@ class Test(unittest.TestCase):
     def test_that_pointers_are_at_null_in_empty_stack(self):
         self.first = None
         self.last = None
-        self.assertEqual(self.first == self.stack.first and self.last == self.stack.last, True)
+        self.assertEqual(self.first, self.stack.first)
+        self.assertEqual(self.last, self.stack.last)
         
-    
+    def test_that_pointers_are_at_the_only_value_in_stack(self):
+        self.stack.push(10)
+        self.first = 10
+        self.last = 10
+        self.assertEqual(self.first, self.stack.first.value)
+        self.assertEqual(self.last, self.stack.last.value)
+
+    def test_that_pointers_are_successfully_relocated_when_having_more_than_one_value(self):
+        self.stack.push(10)
+        self.stack.push(20)
+        self.first = 20
+        self.last = 10
+        self.assertEqual(self.first, self.stack.first.value)
+        self.assertEqual(self.last, self.stack.last.value)
