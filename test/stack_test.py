@@ -15,6 +15,7 @@ class Test(unittest.TestCase):
         self.last = None
         self.assertEqual(self.first, self.stack.first)
         self.assertEqual(self.last, self.stack.last)
+        self.assertEqual(self.stack.size, 0)
         
     def test_that_pointers_are_at_the_only_value_in_stack(self):
         self.stack.push(10)
@@ -22,6 +23,7 @@ class Test(unittest.TestCase):
         self.last = 10
         self.assertEqual(self.first, self.stack.first.value)
         self.assertEqual(self.last, self.stack.last.value)
+        self.assertEqual(self.stack.size, 1)
 
     def test_that_pointers_are_successfully_relocated_when_having_more_than_one_value(self):
         self.stack.push(10)
@@ -30,6 +32,7 @@ class Test(unittest.TestCase):
         self.last = 10
         self.assertEqual(self.first, self.stack.first.value)
         self.assertEqual(self.last, self.stack.last.value)
+        self.assertEqual(self.stack.size, 2)
         
     def test_that_checks_if_can_do_pop_on_empty_stack(self):
         self.stack.pop()
@@ -37,6 +40,7 @@ class Test(unittest.TestCase):
         self.last = None
         self.assertEqual(self.first, self.stack.first)
         self.assertEqual(self.last, self.stack.last)
+        self.assertEqual(self.stack.size, 0)
 
     def test_that_checks_if_pop_moves_pointers_to_none_on_stack_with_a_single_value(self):
         self.stack.push(1)
@@ -45,6 +49,7 @@ class Test(unittest.TestCase):
         self.last = None
         self.assertEqual(self.first, self.stack.first)
         self.assertEqual(self.last, self.stack.last)
+        self.assertEqual(self.stack.size, 0)
         
     def test_that_checks_if_pop_moves_pointers_to_same_node_on_stack_with_two_values(self):
         self.stack.push(1)
@@ -54,6 +59,7 @@ class Test(unittest.TestCase):
         self.last = 1
         self.assertEqual(self.first, self.stack.first.value)
         self.assertEqual(self.last, self.stack.last.value)
+        self.assertEqual(self.stack.size, 1)
         
     def test_that_checks_if_pop_moves_pointers_to_expected_node_on_stack_with_more_than_two_values(self):
         self.stack.push(1)
@@ -64,3 +70,4 @@ class Test(unittest.TestCase):
         self.last = 1
         self.assertEqual(self.first, self.stack.first.value)
         self.assertEqual(self.last, self.stack.last.value)
+        self.assertEqual(self.stack.size, 2)
