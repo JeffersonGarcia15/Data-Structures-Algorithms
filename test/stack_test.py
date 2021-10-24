@@ -38,7 +38,7 @@ class Test(unittest.TestCase):
         self.assertEqual(self.first, self.stack.first)
         self.assertEqual(self.last, self.stack.last)
 
-    def test_that_checks_if_pop_moves_pointer_to_none_on_stack_with_a_single_value(self):
+    def test_that_checks_if_pop_moves_pointers_to_none_on_stack_with_a_single_value(self):
         self.stack.push(1)
         self.stack.pop()
         self.first = None
@@ -46,11 +46,21 @@ class Test(unittest.TestCase):
         self.assertEqual(self.first, self.stack.first)
         self.assertEqual(self.last, self.stack.last)
         
-    def test_that_checks_if_pop_moves_pointer_to_same_node_on_stack_with_two_values(self):
+    def test_that_checks_if_pop_moves_pointers_to_same_node_on_stack_with_two_values(self):
         self.stack.push(1)
         self.stack.push(2)
         self.stack.pop()
         self.first = 1
+        self.last = 1
+        self.assertEqual(self.first, self.stack.first.value)
+        self.assertEqual(self.last, self.stack.last.value)
+        
+    def test_that_checks_if_pop_moves_pointers_to_expected_node_on_stack_with_more_than_two_values(self):
+        self.stack.push(1)
+        self.stack.push(2)
+        self.stack.push(3)
+        self.stack.pop()
+        self.first = 2
         self.last = 1
         self.assertEqual(self.first, self.stack.first.value)
         self.assertEqual(self.last, self.stack.last.value)
