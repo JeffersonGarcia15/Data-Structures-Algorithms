@@ -29,6 +29,17 @@ class Stack:
             self.first.next = temp
         self.size += 1
         return self.size
+    
+    def pop(self):
+        if not self.first: 
+            return None
+        temp = self.first
+        if self.first == self.last:
+            self.last = None
+        self.first = self.first.next
+        self.size -= 1
+        return temp.value
+        
 
 # class Stack(object):
 #     def __init__(self):
@@ -63,4 +74,5 @@ stack = Stack()
 stack.push(1)
 stack.push(50)
 stack.push(100)
-print(stack.first.value)
+print(stack.pop())
+print(stack.size)
