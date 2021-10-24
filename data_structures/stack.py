@@ -9,11 +9,26 @@
 
 class Node:
     def __init__(self, value):
-        self.size = 0
         self.value = value
         self.next = None
         
+class Stack:
+    def __init__(self):
+        self.first = None
+        self.last = None
+        self.size = 0
 
+    def push(self, value):
+        new_node = Node(value)
+        if not self.first:
+            self.first = new_node
+            self.last = new_node
+        else:
+            temp = self.first
+            self.first = new_node
+            self.first.next = temp
+        self.size += 1
+        return self.size
 
 # class Stack(object):
 #     def __init__(self):
@@ -44,3 +59,8 @@ class Node:
 # print(s.isEmpty())
 # print(s.pop())
 # print(s.peek())
+stack = Stack()
+stack.push(1)
+stack.push(50)
+stack.push(100)
+print(stack.first.value)
