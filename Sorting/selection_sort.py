@@ -1,3 +1,4 @@
+# O(n^2) Time, O(1) Space
 def selection_sort(lst):
     for i in range(len(lst)):
         min_value = lst[i]
