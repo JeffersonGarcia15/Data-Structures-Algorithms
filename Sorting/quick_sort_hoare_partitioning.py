@@ -1,3 +1,4 @@
+# O(nlogn) Time and O(logn) Space complexity
 def quick_sort_hoare_partitioning(lst):
     def helper(lst, start, end):
         # Leaf level worker
