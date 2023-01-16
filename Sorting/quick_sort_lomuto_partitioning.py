@@ -19,6 +19,7 @@ def quick_sort_lomuto_partitioning(lst):
     
     helper(lst, 0, len(lst) - 1)
     return lst
+print(quick_sort_lomuto_partitioning([3, 2, 3, 1, 2, 4, 5, 5, 6]))
 
 # p[1, 2, 3, 4] pivot_pointer < start => start = 0, end = -1 so start > end
 # [1, 2, 3, 4]p pivot_pointer > end start = 7, end = 6 so start > end
