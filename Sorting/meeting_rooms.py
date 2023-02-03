@@ -30,3 +30,4 @@ def meeting_rooms(intervals):
 print(meeting_rooms([[0, 30], [5, 10], [15, 20]])) # False
 print(meeting_rooms([[7, 10], [2, 4]])) # True
 print(meeting_rooms([[0, 5], [10, 15]])) # True
+print(meeting_rooms([[0, 30], [5, 16], [15, 20], [28, 29]])) # False
