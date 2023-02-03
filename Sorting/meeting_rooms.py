@@ -18,11 +18,14 @@
 # O(nlogn) Time and O(1) Auxiliary Space
 def meeting_rooms(intervals):
     intervals.sort()
-    for i in range(len(intervals) - 1):
-        next_interval_start_time = intervals[i + 1][0]
-        current_interval_end_time = intervals[i][1]
-        if current_interval_end_time > next_interval_start_time:
-            return False 
+    for i in range(len(intervals)):
+        if i == len(intervals) - 1:
+            next_interval_start_time = float("inf")
+        else:
+            next_interval_start_time = intervals[i + 1][0]
+            current_interval_end_time = intervals[i][1]
+            if current_interval_end_time > next_interval_start_time:
+                return False 
     return True
 print(meeting_rooms([[0, 30], [5, 10], [15, 20]])) # False
 print(meeting_rooms([[7, 10], [2, 4]])) # True
